@@ -1,1 +1,2 @@
 The test is a great way to start a repository
+Oh! i have added a new line.
